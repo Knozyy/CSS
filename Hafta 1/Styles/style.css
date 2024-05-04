@@ -1,0 +1,204 @@
+.kutu{
+    background-color: #f2f2f2;
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 150px;  
+}
+.ad{
+    color: #000;
+}
+.adsoyad{
+    font-size: 24px;
+    font-weight: 600px;
+    color: red;
+}
+.soyad{
+    color: hsl(240, 100%, 50%);
+}
+.disc{
+    width: 300px;
+    height: 200px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #e1e1e1;
+    box-shadow: 15px 15px 10px 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background-color: rgb(43,255 , 1);
+    border-radius: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.disc>.circle{
+    background-color: red;
+    color: #ffff;
+}
+.resim{
+    width: 175px;
+    height: 125px;
+}
+.iki{
+width: 350px;
+height: 25px;
+margin-top: -80px;
+margin-left: 1450px;
+margin-bottom: 25px;
+text-align: center;
+
+}
+.ikinciresim{
+    width: 100%;
+ 
+}
+
+.genel{
+    margin-top: -151px;
+}
+.foto1{
+   
+   
+}
+.foto2{
+    margin-left: 300px;
+}
+.foto3{
+   
+    margin-left: 1350px;
+    margin-top: -325px;
+}
+.Yazı{
+    width: 225px;
+    text-align: center;
+    margin-left: 750px;
+    border: 3px solid black;
+    border-radius: 6px;
+    margin-top: -1cm;
+}
+.icons{
+    text-align: center;
+    border-radius: 1px;
+    margin-left: 1450px;
+    width: 125px;
+    height: 20px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-top: -1cm;
+}
+.iconss{
+    text-align: center;
+    margin-left: 300px;
+    width: 125px;
+    height: 20px;
+    margin-top: -1cm;
+}
+.adress{
+    width: 150px;
+    height: 50px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: #e1e1e1;
+    box-shadow: 15px 15px 10px 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.iconT{
+    border-radius: 1px;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    border-radius: 50px;
+    line-height: 60px;
+    text-align: center;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+.iconT{
+ font-size: 20px;   
+}
+.iconT:hover{
+    width: 100px;
+    transition: 0.7s;
+}
+.wrapper .icons:nth-child(1):hover .icon{
+    color: #426782;
+}
+.iconTT{
+
+    border-radius: 1px;
+    margin-left: 100px;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: aqua;
+    border-radius: 50px;
+    line-height: 60px;
+    text-align: center;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+.iconTT{
+ font-size: 20px;   
+}
+.iconTT:hover{
+    width: 100px;
+    transition: 0.7s;
+}
+.iconY{
+
+    border-radius: 1px;
+    margin-top: -70px;
+    margin-left: 750px;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: red;
+    border-radius: 50px;
+    line-height: 60px;
+    text-align: center;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+.iconY{
+ font-size: 20px;   
+}
+.iconY:hover{
+    width: 100px;
+    transition: 0.7s;
+}
+.iconİ{
+
+    border-radius: 1px;
+    margin-top: -75px;
+    margin-left: 750px;
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background-color: magenta;
+    border-radius: 50px;
+    line-height: 60px;
+    text-align: center;
+    box-shadow: 0px 10px 10px rgba(0, 0, 0, 0.1);
+}
+.iconİ{
+ font-size: 20px;   
+}
+.iconİ:hover{
+    width: 100px;
+    transition: 0.7s;
+}
+a{
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+}
